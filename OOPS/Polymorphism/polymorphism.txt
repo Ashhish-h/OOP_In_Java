@@ -1,0 +1,40 @@
+Polymorphism in Java is the ability of a message to be displayed in more than one form1. It’s one of the major building blocks of object-oriented programming2.
+
+In simple terms, think of it as a person who can have different characteristics at the same time. For example, a man can be a father, a husband, and an employee at the same time. So the same person possesses different behaviors in different situations. This is similar to polymorphism1.
+
+In Java, polymorphism allows you to define one interface and have multiple implementations1. It’s mainly divided into two types: Compile-time Polymorphism and Runtime Polymorphism1.
+
+Compile-time Polymorphism: Also known as static polymorphism. This type of polymorphism is achieved by function overloading1. When there are multiple functions with the same name but different parameters, these functions are said to be overloaded1.
+Java
+
+class Helper {
+    static int Multiply (int a, int b) {
+        return a * b;
+    }
+    static double Multiply (double a, double b) {
+        return a * b;
+    }
+}
+AI-generated code. Review and use carefully. More info on FAQ.
+In the above example, the Multiply method is overloaded with different parameter types1.
+
+Runtime Polymorphism: Also known as Dynamic Method Dispatch. It is a process in which a function call to the overridden method is resolved at Runtime1. This type of polymorphism is achieved by Method Overriding1.
+Java
+
+class Animal {
+    public void animalSound() {
+        System.out.println("The animal makes a sound");
+    }
+}
+
+class Pig extends Animal {
+    public void animalSound() {
+        System.out.println("The pig says: wee wee");
+    }
+}
+
+class Dog extends Animal {
+    public void animalSound() {
+        System.out.println("The dog says: bow wow");
+    }
+}
