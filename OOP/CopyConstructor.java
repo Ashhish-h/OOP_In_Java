@@ -1,4 +1,4 @@
-package OOPS;
+package OOP;
 
 public class CopyConstructor{
     public static void main(String[] args){

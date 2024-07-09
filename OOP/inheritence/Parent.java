@@ -1,4 +1,4 @@
-package OOPS.inheritence;
+package OOP.inheritence;
 
 public class Parent {
     public void eat()

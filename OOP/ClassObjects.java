@@ -1,4 +1,4 @@
-package OOPS;
+package OOP;
 
 public class ClassObjects {
     public static void main(String[] arge){

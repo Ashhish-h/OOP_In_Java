@@ -1,4 +1,4 @@
-package OOPS.EnumsExample;
+package OOP.EnumsExample;
 
 public class EnumsExample {
     enum Week{

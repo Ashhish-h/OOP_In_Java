@@ -1,4 +1,4 @@
-package OOPS.interfaces;
+package OOP.interfaces;
 
 public class Main {
     public static void main(String[] ags){

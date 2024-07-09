@@ -1,4 +1,4 @@
-package OOPS.AbstractionDemo;
+package OOP.AbstractionDemo;
 
 public class Son extends Parent{
     void eat(String type){

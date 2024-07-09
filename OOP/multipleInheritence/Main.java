@@ -1,4 +1,4 @@
-package OOPS.multipleInheritence;
+package OOP.multipleInheritence;
 
 public class Main {
     public static void main(String[] args) {

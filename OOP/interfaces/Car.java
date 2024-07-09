@@ -1,4 +1,4 @@
-package OOPS.interfaces;
+package OOP.interfaces;
 
 public class Car implements Engine, Brake, Media{
     public void startEngine(){

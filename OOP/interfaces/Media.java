@@ -1,4 +1,4 @@
-package OOPS.interfaces;
+package OOP.interfaces;
 
 public interface Media {
     void startMedia();

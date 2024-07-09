@@ -1,4 +1,4 @@
-package OOPS.Encapsulation;
+package OOP.Encapsulation;
 
 public class BankAccount {
     public String userName;

@@ -1,4 +1,4 @@
-package OOPS.AbstractionDemo;
+package OOP.AbstractionDemo;
 
 abstract public class Parent {
     abstract void eat(String type);
