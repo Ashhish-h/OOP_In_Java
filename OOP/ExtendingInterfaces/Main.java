@@ -1,4 +1,4 @@
-package OOPS.ExtendingInterfaces;
+package OOP.ExtendingInterfaces;
 
 public class Main implements Interface_B{
 
