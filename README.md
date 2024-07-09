@@ -10,6 +10,8 @@ This repository contains examples and explanations of key Object-Oriented Progra
 - **Polymorphism**
 - **Abstraction**
 - **Interfaces**
+- **Generics**
+- **Enum**
 
 ## Getting Started
 
